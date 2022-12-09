@@ -2,4 +2,11 @@
 Travelling Salesman Problem using :
  1. Branch and Bound
  2. SLS
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Ftraveling%2Bsalesman%2Bproblem&psig=AOvVaw1wPOPhh1i0gHkeuHXQdcaq&ust=1670643601815000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCY48XO6_sCFQAAAAAdAAAAABAX)
+
+#Branch And Bound DFS- Second Minimum Heuristic
+To run code:
+1. Clone Repo
+2. Add input parameters to input.txt, which will be in the same folder as Branch&BoundDfs.cpp
+3. Execute Branch&BoundDfs.cpp using the command g++ -o x Branch&BoundDfs.cpp 
+4. Run using the command ./x
+
