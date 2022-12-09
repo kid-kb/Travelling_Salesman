@@ -3,7 +3,8 @@ Travelling Salesman Problem using :
  1. Branch and Bound
  2. SLS
 
-#Branch And Bound DFS- Second Minimum Heuristic
+Branch And Bound DFS- Second Minimum Heuristic
+
 To run code:
 1. Clone Repo
 2. Add input parameters to input.txt, which will be in the same folder as Branch&BoundDfs.cpp
