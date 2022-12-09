@@ -52,8 +52,9 @@ void solve_tsp(vector<vector<double> > &graph, double curr_heuristic, double cur
             travel_path = path;
             travel_path.push_back(path[0]);
             ans=curr_res;
-           
-            upp_bound = curr_res-2;
+            int x = 2; // Can change x depending upon variance to improve performance.
+            upp_bound = curr_res-x;
+            
             
             cout<<setprecision(8)<<fixed<<ans<<"\n";
             
